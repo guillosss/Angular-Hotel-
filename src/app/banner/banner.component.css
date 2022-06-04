@@ -1,0 +1,6 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/hotel-b5dca.appspot.com/o/banner.jpg?alt=media&token=70e5faf3-5ea1-4dce-b719-bd95445db56a);
+    background-position: top center;
+    background-size: cover;
+    padding: 10% 30% 40% 10%;
+}
